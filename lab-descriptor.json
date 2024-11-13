@@ -6,7 +6,7 @@
     },
     "lab": "Instrumentation and Control",
     "lab_display_name": "Instrumentation and Control Lab",
-    "phase": 3,
+    "phase": "3-ext",
     "collegeName": "COEP",
     "baseUrl": "ic-coep.vlabs.ac.in",
     "introduction": "Instrumentation & Control laboratory is developed to understand operation of sensors required for measurements of different industrial parameters. The target audience for the laboratory is second year and third year undergraduate students of engineering. The parameters like flow, density, power, torque, speed, acceleration are described. Total ten experiments are designed to understand sensors’ operation and various competence required to select, design, configure, and maintain these sensors. To use this laboratory effectively the users, need to study the fundamentals like working principle of the sensor, operation of the sensor in the field, and troubleshooting methods required. At the end of the experiment a dashboard is displayed to inform the user about his/her areas for improvement.",
